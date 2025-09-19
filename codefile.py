@@ -1,1 +1,1 @@
-
+input("give the addresses of your clients: ")
